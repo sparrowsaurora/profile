@@ -1,9 +1,7 @@
 # 💫 About Me:
-Here’s an optimized profile tailored for recruiters in the fintech, investment banking, or hedge fund space:
 
 ---
 
-### **Profile Summary:**
 I’m a highly motivated software developer specializing in AI, web development, and trading automation. Currently building an AI voice assistant with real-world capabilities to organize tasks and enhance coding productivity, and developing a forex and stock trading bot. Passionate about solving problems and collaborating with fintech firms to innovate in algorithmic trading and create standout websites for businesses. Actively learning advanced JavaScript, PineScript, PHP, and SQL to further refine my expertise and build impactful solutions.
 
 ---
